@@ -1,9 +1,8 @@
 console.log("This is current wheather app");
-// API_KEY = 2a8db2a3cddadc6bb2cb5aac405f0402
 
 const API_KEY = "2a8db2a3cddadc6bb2cb5aac405f0402"
 const URL = "https://api.openweathermap.org/data/2.5/weather"
-const India = "pakistan" 
+
 
 // selectors
 const inputVal = document.getElementById("inputId");
